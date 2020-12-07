@@ -4,3 +4,7 @@ logging:
 
 greeting:
   message: hi, this is a default message served from git repository on github
+  
+spring:
+  profiles:
+    active: development
