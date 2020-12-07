@@ -1,2 +1,6 @@
 greeting:
   message: hi, this is a APPLICATION.yaml message served from git repository on github
+
+spring:
+  profiles:
+    active: dev
