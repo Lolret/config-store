@@ -3,6 +3,6 @@
 #     active: prod
 
 greeting:
-  message: hi, this is a APPLICATION.yaml message served from git repository on github
+  message2: hi, this is a APPLICATION.yaml message served from git repository on github
 
 
