@@ -3,6 +3,6 @@ spring:
     active: prod
 
 greeting:
-  message2: hi, this is a APPLICATION.yaml message served from git repository on github
+  message: hi, this is a APPLICATION.yaml message served from git repository on github
 
 
