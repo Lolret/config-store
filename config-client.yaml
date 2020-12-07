@@ -1,3 +1,7 @@
+spring:
+  profiles:
+    active: development
+    
 logging:
   level:
     org.springframework.boot: DEBUG
@@ -5,6 +9,4 @@ logging:
 greeting:
   message: hi, this is a default message served from git repository on github
   
-spring:
-  profiles:
-    active: development
+
