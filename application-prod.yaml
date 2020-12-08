@@ -1,2 +1,4 @@
 greeting:
   message: hi, this is a PROD message served from git repository on github
+greeting:
+  message2: hi, this is a PROD2 message served from git repository on github
